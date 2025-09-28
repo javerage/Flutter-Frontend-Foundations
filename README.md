@@ -14,9 +14,11 @@ By completing all the practices in this repository, you won't just have function
 Solid Project Architecture: You'll learn to structure your code like a pro, using a clean, feature-first architecture that's easy to maintain and scale.    
 Mastery of Responsive Layouts: You'll build interfaces that look great on any device, mastering Row, Column, Stack, and the techniques for creating adaptive UIs.    
 Interactive & Validated Forms: You'll create forms that respond to user input, capturing data and applying validation rules for a flawless user experience.    
-Modern State Management: You'll understand how to manage your app's "brain," using StatefulWidget for local state and Cubit for more advanced, efficient state management.    
+Modern State Management: You'll understand how to manage your app's "brain," using StatefulWidget for local state and Cubit for more advanced, efficient state management.
+
 Declarative Navigation with Go_Router: You'll implement a modern and powerful routing system, learning to move between screens, pass complex data, and protect routes just like in real-world applications.    
-Dynamic Data Display: You'll master the technique of displaying long lists of data smoothly and efficiently with ListView.builder and GridView.builder.    
+Dynamic Data Display: You'll master the technique of displaying long lists of data smoothly and efficiently with ListView.builder and GridView.builder.
+  
 🛠️ Before You Start: Your Toolkit
 Although you should already have everything set up for the course, it's always good to have the official guides handy. If you need to install or review your development environment setup, here are the direct links:
 
