@@ -1,7 +1,7 @@
 ![Header](images/header_001.png)
 
-Flutter Frontend Foundation: Your App Development Adventure
-👋 Welcome to Your Flutter Adventure!
+# Flutter Frontend Foundation: Your App Development Adventure
+Welcome to Your Flutter Adventure!
 Hello, future app developer! This repository is your personal training ground to launch into the incredible world of Flutter. Forget boring guides; the rule here is learning by doing.
 
 We've designed a series of five hands-on practices that will take you from the fundamentals of UI construction to building a functional, multi-screen application with a clean architecture. Think of this not as a course, but as a practical workshop where you and your teammate are the main characters.
@@ -22,17 +22,17 @@ Although you should already have everything set up for the course, it's always g
 
 Install the Flutter SDK: The foundation for everything.
 
-[Official Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
+- [Official Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 
 Install Visual Studio Code (Recommended): A lightweight and powerful code editor, perfect for Flutter.
 
-[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-[Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
+- [Flutter](https://marketplace.visualstudio.com/items?itemName=Dart-Code.flutter)
 
 Install Android Studio: Necessary for the Android SDK and emulators.
 
-[Android Studio](https://developer.android.com/studio)
+- [Android Studio](https://developer.android.com/studio)
 
 📂 How It's Organized
 To keep everything clear and tidy, each practice is a complete, self-contained Flutter project. This allows you to focus on one lesson at a time without distractions.
@@ -44,24 +44,28 @@ To keep everything clear and tidy, each practice is a complete, self-contained F
 ├── practice_03_multi_screen_navigation/
 ├── practice_04_dynamic_product_list/
 └── practice_05_ecommerce_showcase/
+
 🚀 Let's Get Coding!
 Ready to start programming? Follow these simple steps to run the first practice:
 
 Clone the repository to your local machine:
 
-Bash
+```Bash:
 git clone https://github.com/flutter-launchpad/flutter_frontend_foundation.git
 Navigate to the directory of the first practice:
+```
 
-Bash
+```Bash:
 cd flutter_frontend_foundation/practice_01_mastering_layouts
 Open the folder in Visual Studio Code or your preferred editor.
+```
 
 Install the project dependencies. Open a terminal within VS Code and run:
 
-Bash
+```Bash:
 flutter pub get
 Run the app on an emulator or your physical device. You're now ready to start building!
+```
 
 📚 Roadmap: The Practices
 This is your treasure map. Each practice is another step on your journey to becoming a Flutter developer.
@@ -89,9 +93,9 @@ Mission: Integrate all your power. You'll create an e-commerce UI with carousels
 💬 Connect with the Community
 You're not alone on this journey! If you have questions, ideas, or just want to share your progress, follow us and join the conversation.
 
-GitHub: [@javerage](https://github.com/javerage/)
-X (Twitter): [@javerage](https://twitter.com/javerage/)
-Instagram: [@javeragedev](https://www.instagram.com/javeragedev/)
+- GitHub: [@javerage](https://github.com/javerage/)
+- X (Twitter): [@javerage](https://twitter.com/javerage/)
+- Instagram: [@javeragedev](https://www.instagram.com/javeragedev/)
 
 If you find a bug or have a suggestion to improve a practice, the best way to help is by opening an "Issue" directly in this GitHub repository.
 
