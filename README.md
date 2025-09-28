@@ -37,6 +37,7 @@ Install Android Studio: Necessary for the Android SDK and emulators.
 📂 How It's Organized
 To keep everything clear and tidy, each practice is a complete, self-contained Flutter project. This allows you to focus on one lesson at a time without distractions.
 
+```
 /
 ├── README.md
 ├── practice_01_mastering_layouts/
@@ -44,6 +45,7 @@ To keep everything clear and tidy, each practice is a complete, self-contained F
 ├── practice_03_multi_screen_navigation/
 ├── practice_04_dynamic_product_list/
 └── practice_05_ecommerce_showcase/
+```
 
 🚀 Let's Get Coding!
 Ready to start programming? Follow these simple steps to run the first practice:
