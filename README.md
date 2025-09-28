@@ -90,12 +90,11 @@ Mission: Work with data. You'll transform a simple screen into a dynamic and eff
 
 Mission: Integrate all your power. You'll create an e-commerce UI with carousels, grids, and navigation to detail screens, passing complex data between them.
 
-💬 Connect with the Community
-You're not alone on this journey! If you have questions, ideas, or just want to share your progress, follow us and join the conversation.
+💬 You're not alone on this journey! If you have questions, ideas, or just want to share your progress, follow us and join the conversation.
 
-- GitHub: [@javerage](https://github.com/javerage/)
-- X (Twitter): [@javerage](https://twitter.com/javerage/)
-- Instagram: [@javeragedev](https://www.instagram.com/javeragedev/)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" width="16" height="16" /> GitHub: [@javerage](https://github.com/javerage/)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/x.svg" width="16" height="16" /> X (Twitter): [@javerage](https://twitter.com/javerage/)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="16" height="16" /> Instagram: [@javeragedev](https://www.instagram.com/javeragedev/)
 
 If you find a bug or have a suggestion to improve a practice, the best way to help is by opening an "Issue" directly in this GitHub repository.
 
